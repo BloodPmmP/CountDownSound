@@ -16,6 +16,7 @@ from CountDownPlay import CDP
 ```py
 time = int(input("......"))
 var = CDP(time)
+var.countdown()
 
 ```
 ## Adding Sound
