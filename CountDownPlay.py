@@ -2,7 +2,7 @@ import time as t
 import playsound as ps
 from config import config
 
-class countdown:
+class CDP:
     def __init__(self, time):
         self.time = time
     def play(self, path):
