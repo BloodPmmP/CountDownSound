@@ -9,6 +9,7 @@ config = {
 # Works As An API
 ## Import
 ```py
+from config import config   # for config
 from CountDownPlay import CDP
 ```
 ## creating
